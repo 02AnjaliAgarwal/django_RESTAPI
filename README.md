@@ -10,10 +10,10 @@ Build REST API endpoints using Django REST Framework (DRF)!
 ## Workflow:
 
 - GET /students: Fetches the list of all students.
-- GET /students/22: Fetches details of the student with specified id.
+- GET /students/id: Fetches details of the student with specified id.
 - POST /students: Adds a new student.
-- PUT /students/<id>: Updates the student with specified id.
-- DELETE /students/<id>: Deletes the student with specified id.
+- PUT /students/id: Updates the student with specified id.
+- DELETE /students/id: Deletes the student with specified id.
 
 
 ## Features
