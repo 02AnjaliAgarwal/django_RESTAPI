@@ -1,6 +1,6 @@
 # Django REST Framework Project
 
-Build powerful REST API endpoints using Django REST Framework (DRF)!
+Build REST API endpoints using Django REST Framework (DRF)!
 
 ## Endpoint Structure:
 
